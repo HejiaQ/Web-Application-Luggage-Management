@@ -1,8 +1,25 @@
-.App {
+/* .App {
   text-align: center;
+} */
+
+
+.Login-component{
+  text-align: center;
+  background-color: rgb(150, 222, 174);
+  padding-top: 30px;
+  padding-bottom: 100px;
+  margin-top: 20%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 50px;
+  border-radius: 10px;
+ 
 }
 
-.App-logo {
+
+
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +52,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
